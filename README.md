@@ -11,7 +11,7 @@
 
 |任务|进度|是否提交|
 |---|---|---|
-|task1_1|![](http://progressed.io/bar/0)|否|
+|task1_1|![](http://progressed.io/bar/100)|否|
 |task1_2|![](http://progressed.io/bar/100)|否|
 |task1_3|![](http://progressed.io/bar/90)|否|
 |task1_4|![](http://progressed.io/bar/100)|否|
