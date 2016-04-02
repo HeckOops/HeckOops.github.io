@@ -1,0 +1,126 @@
+* {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+  text-decoration: none; }
+
+body {
+  background: #f4f5f6; }
+
+header {
+  width: 100%;
+  color: white; }
+  header h3 {
+    line-height: 50px;
+    text-align: center;
+    background: #92d5d9; }
+    header h3 span {
+      float: left; }
+  header nav {
+    height: 50px;
+    background: white; }
+    header nav ul {
+      line-height: 50px;
+      display: flex;
+      flex-flow: row wrap;
+      justify-content: space-around; }
+      header nav ul a {
+        color: black; }
+        header nav ul a:visited {
+          border-bottom: 1px solid #ccc; }
+
+.header-content {
+  height: 100px;
+  padding: 40px 20px 20px 20px;
+  background: white; }
+  .header-content ul {
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: space-around;
+    border-bottom: 1px solid #ccc; }
+    .header-content ul div {
+      width: 50px;
+      height: 50px;
+      background: #21c7d4;
+      border-radius: 50%;
+      margin-bottom: 20px; }
+    .header-content ul p {
+      text-align: center;
+      margin-bottom: 20px; }
+
+.splite-bar {
+  background: white; }
+  .splite-bar ul {
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: space-around; }
+    .splite-bar ul li {
+      text-align: center; }
+      .splite-bar ul li h3 {
+        margin: 10px 0; }
+      .splite-bar ul li p {
+        margin-bottom: 20px; }
+
+.section-one {
+  margin-top: 10px;
+  padding: 10px;
+  background: white; }
+
+.section-title {
+  height: 50px;
+  border-bottom: 1px solid #ccc; }
+  .section-title h3 {
+    line-height: 50px; }
+
+.content {
+  padding: 10px 0;
+  display: flex;
+  flex-wrap: row;
+  justify-content: space-between; }
+
+.content-img {
+  width: 100px;
+  height: 100px;
+  background: url(http://placehold.it/100x100); }
+
+.content-text {
+  display: flex;
+  flex-flow: row wrap;
+  justify-content: space-around; }
+  .content-text .items {
+    width: 120px;
+    height: 50px;
+    background: #f4f5f6;
+    text-align: center;
+    line-height: 50px;
+    margin-bottom: 10px; }
+
+footer {
+  background: white;
+  margin-top: 10px; }
+  footer section {
+    padding: 10px;
+    border-bottom: 1px solid #ccc; }
+  footer .footer-content {
+    display: flex;
+    flex-flow: row;
+    justify-content: space-between; }
+    footer .footer-content div {
+      margin-left: 20px;
+      position: relative; }
+      footer .footer-content div p {
+        position: absolute;
+        bottom: 0; }
+  footer h3 {
+    font-size: 22px; }
+  footer p {
+    color: #ccc; }
+  footer ul {
+    display: flex;
+    flex-flow: row;
+    justify-content: space-around; }
+    footer ul li {
+      margin: 10px 0;
+      width: 130px;
+      height: 100px;
+      background: url(http://placehold.it/130x100); }
