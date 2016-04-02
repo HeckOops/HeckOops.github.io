@@ -20,6 +20,7 @@
 |task1_7|![](http://progressed.io/bar/40)|否|
 |task1_8|![](http://progressed.io/bar/0)|否|
 |task1_10|![](http://progressed.io/bar/100)|否|
+|task1_11|![](http://progressed.io/bar/80)|否|
 
 
 ### 百度IFE第二阶段任务
